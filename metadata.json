@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SilentPulse",
+  "description": "A focus-first notification manager that silently aggregates alerts and uses Gemini AI to generate thorough, context-aware reports based on your specific queries.",
+  "requestFramePermissions": []
+}
